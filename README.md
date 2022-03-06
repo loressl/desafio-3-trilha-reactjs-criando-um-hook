@@ -13,10 +13,11 @@ Entre esses ações deve adicionar mensagens de erros e fazer cálculos para o p
 
 ## :white_check_mark: Testes
 
+<img alt="ignit" src="evidences/test.JPG" />
+
 ## :sparkler: Aplicação
 
-<video src="evidences/desafio_3.mp4"/> 
+https://user-images.githubusercontent.com/34512572/156905293-cbb0b46f-c071-49f4-b25b-b829453a47fd.mp4
 
-<img alt="ignit" src="evidences/test.JPG" />
 
 [![MIT License](https://img.shields.io/apm/l/atomic-design-ui.svg?)](https://github.com/tterb/atomic-design-ui/blob/master/LICENSEs)
